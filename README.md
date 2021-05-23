@@ -1,8 +1,8 @@
 ## Candidature-IAAA
-Le dépôt ne contient que des notebook Colab pour m'entraîner.<br/>
-Il s'agit d'un ensemple de 5 activités de DeepLearning(Computer Vision)</br>
+Le dépôt ne contient que des notebook Colab d'entraînement.<br/>
+Il s'agit d'un ensemble de 5 activités de DeepLearning(Computer Vision)</br>
 
-Je conseille de ne passer que par les liens ci-dessous pour avoir accès:
+Vous pouvez les télécharger ou passer par les liens ci-dessous (capricieux si vous n'êtes pas connecté à colab) pour avoir accès:
 - à un visuel plus agréable + thème dark préférable dans 'Outils/Paramètres/Thèmes'
 - au sommaire du notebook
 
